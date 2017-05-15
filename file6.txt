@@ -1,0 +1,6 @@
+hai hai
+git
+clone
+push
+pull
+change location
